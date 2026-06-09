@@ -1,5 +1,4 @@
 # student-management-system-api
-# Student Management System API
 
 ## Project Description
 
